@@ -17,13 +17,23 @@ Neste perfil você verá meus projetos, conquistas, habilidades e um pouco da mi
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+  
 [![Sarah’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahjenny1902&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
+</td>
+<td>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahjenny1902&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=sarahjenny1902&theme=radical&hide_border=false)](https://git.io/streak-stats)  
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
