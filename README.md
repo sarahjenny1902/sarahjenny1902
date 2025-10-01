@@ -1,8 +1,9 @@
 # Olá, eu sou Sarah Jennyfer 👋  
 **Usuário no GitHub:** `sarahjenny1902`  
 
-Sou apaixonada por tecnologia, desenvolvimento, design e inovação.  
-Neste perfil você verá meus projetos, conquistas, habilidades e um pouco da minha trajetória.
+⋆｡˚ ⋆ Sou apaixonada por tecnologia, desenvolvimento, design e inovação ₊˚⊹♡
+𐙚 Além disso, sou autista, tenho TDAH e um hiperfoco mágico em My Little Pony 🦄�
+✧˖°. Neste perfil você verá meus projetos, conquistas, habilidades e um pouco da minha trajetória ˚୨୧⋆｡˚ ⋆
 
 ---
 
