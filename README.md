@@ -3,7 +3,7 @@
 
 ⋆｡˚ ⋆ Sou apaixonada por tecnologia, desenvolvimento, design e inovação ₊˚⊹♡
 
-𐙚 Além disso, sou autista, tenho TDAH e um hiperfoco mágico em My Little Pony 🦄
+𐙚 Além disso, sou autista, tenho TDAH e hiperfoco em My Little Pony 🦄
 
 ✧˖°. Neste perfil você verá meus projetos, conquistas, habilidades e um pouco da minha trajetória ˚୨୧⋆｡˚ ⋆
 
